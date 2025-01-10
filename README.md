@@ -8,7 +8,7 @@
 - ⚡ Currently working as a BI Analyst in a company studying Consumer Beheaviour 
   
 🛠️ **Tech Skills**
-<h3 align="left">Programming & Tools:</h3>
+<h3 align="left">Programming & Tools: Python,R,SQL,Power BI</h3>
 
 
 
