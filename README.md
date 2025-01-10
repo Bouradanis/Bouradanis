@@ -1,4 +1,4 @@
-<h1 align="center">👋 Andreas Bourantanis</h1>
+<h1 align="center">👋 Andreas Bouradanis</h1>
 <h3 align="center">Data Scientist</h3>
 
 <p></p>
