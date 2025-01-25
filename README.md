@@ -7,7 +7,7 @@
 - 🌱 Data enthusiast
 - ⚡ Currently working as a BI Analyst in a company studying Consumer Beheaviour 
   
-🛠️ **Tech Skills** : Maths, Statistics, Machine Learning, EDA, Data Visualization, Web scrapping
+🛠️ **Tech Skills** : Maths, Statistics,DBMS, Machine Learning, EDA, Data Visualization, Web scrapping
 <h3 align="left">Programming & Tools: Python, R, SQL, Power BI</h3>
 
 
