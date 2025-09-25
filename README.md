@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in *Data Analytics & Machine Learning**
 - 🌱 Data enthusiast
-- ⚡ Currently working as a Daat Scientist and Engineer in a HleathTech Company
+- ⚡ Currently working as a Data Scientist and Engineer in a HealthTech Company
   
 🛠️ **Tech Skills** : Maths, Statistics,DBMS, Machine Learning, EDA, Data Visualization, Web scrapping
 <h3 align="left">Programming & Tools: Python, R, SQL, Power BI</h3>
